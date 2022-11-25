@@ -1,0 +1,20 @@
+.name-container__profession {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+  align-self: flex-start;
+  margin: 0;
+  padding: 0;
+  grid-row: 2 / 2;
+  grid-column: 1 / span 2;
+}
+
+
+@media (max-width: 450px) {
+  .name-container__profession {
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,13 @@
+.name-container {
+  padding: 0 0 20px 35px;
+  display: grid;
+  grid-template-columns: 168px 168px;
+  grid-template-rows: 44px 22px;
+  gap: 10px;
+}
+
+@media (max-width: 450px){
+  .name-container {
+    grid-template-columns: 110px 110px;
+}
+}

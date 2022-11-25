@@ -1,0 +1,14 @@
+.name-container__background {
+  background-color: white;
+  height: 44px;
+  width: 168px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (max-width: 450px) {
+  .name-container__background {
+    width: 110px;
+  }
+}

@@ -1,0 +1,28 @@
+@import url(vendor/normalize.css);
+@import url(vendor/fonts.css);
+@import url(blocks/page/page.css);
+@import url(blocks/root/root.css);
+@import url(blocks/header/header.css);
+
+@import url(blocks/name-container/name-container.css);
+@import url(blocks/name-container/__background/name-container__background.css);
+@import url(blocks/name-container/__name/name-container__name.css);
+@import url(blocks/name-container/__profession/name-container__profession.css);
+@import url(blocks/name-container/__name/_color_black/name-container__name_color_black.css);
+
+
+@import url(blocks/about-me/about-me.css);
+@import url(blocks/about-me/__main-text/about-me__main-text.css);
+@import url(blocks/about-me/__photo/about-me__photo.css);
+@import url(blocks/about-me/__title/about-me__title.css);
+
+@import url(blocks/my-stack/__icons/my-stack__icons.css);
+@import url(blocks/my-stack/__icon/my-stack__icon.css);
+@import url(blocks/my-stack/my-stack.css);
+@import url(blocks/my-stack/__title/my-stack__title.css);
+
+@import url(blocks/projects/__title/projects__title.css);
+@import url(blocks/projects/projects.css);
+@import url(blocks/projects/__item-container/projects__item-container.css);
+
+@im

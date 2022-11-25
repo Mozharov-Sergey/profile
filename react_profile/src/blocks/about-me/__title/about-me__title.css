@@ -1,0 +1,15 @@
+.about-me__title {
+  display: block;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 73px;
+  /* color: black;
+  background-color: white; */
+  color: white;
+  text-align: center;
+  margin: 0;
+  text-transform: uppercase;
+  padding: 35px 35px 0;
+}
